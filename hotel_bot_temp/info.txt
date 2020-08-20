@@ -1,0 +1,12 @@
+Welcome to our hotel
+We have AC rooms and non-AC rooms here
+Our hotel has ac rooms 2 beded and 4 beded
+
+Our hotel can book taxi rides and tourism rides
+Our hotel is the first hotel to have hotel chatbot
+
+Our prices are
+For single bedded type, Non-AC room costs 1000 rupees per day, AC room costs 1500 rupees per day, and deluxe room costs 1900 rupees per day
+For double bedded type, Non-AC room costs 1700 rupees per day, AC room costs 2200 rupees per day, and deluxe room costs 2800 rupees per day
+For family type, Non-AC room costs 2500 rupees per day, AC room costs 3200 rupees per day, and deluxe room costs 4000 rupees per day
+

@@ -1,0 +1,8 @@
+in : 101 
+Date and time : 05:05 PM Thursday, Mar 28, 2019 
+Room type : AC 
+Phone  : 9443170171 
+Aadhar ID : 123456123456 
+Number of people : 
+Names : ['abc_test']1
+Total amount to be paid : 1500

@@ -1,0 +1,8 @@
+in : 102 
+Date and time : 10:29 PM Monday, Apr 01, 2019 
+Room type : non-ac 
+Phone  : 8309858273 
+Aadhar ID : 123456 123456 
+Number of people : 
+Names : ['abc', 'DF']2
+Total amount to be paid : 3400
