@@ -118,7 +118,7 @@ def call_human(text):
 
 def send_sms(ph_numb, msg_text):
         import way2sms
-        q=way2sms.Sms('6302523157', 'C2484R')  # '6301310434', 'K5928Q'
+        q=way2sms.Sms(ph_numb, '')  # password here
         q.send(ph_numb, msg_text)
         q.logout()
 
@@ -440,7 +440,7 @@ def translate():
 
 
 # Responses
-def resp(msg):                      # for correct responses
+def resp(msg):  # for correct responses
         if 'hi' in msg or 'hello' in msg or 'hey' in msg:
                 outp(wish())
         elif 'how' in msg and 'you' in msg:
@@ -606,6 +606,7 @@ def main():
                 resp(mesg)
 
 
-main()
+if __name__ == '__main__':
+        main()
 
 # program ends here
